@@ -97,6 +97,13 @@ MIT World Peace University | Pune, India
 - 🏗️ **Full-Stack Development**: React/React Native/Next.js, Node.js, RESTful APIs, microservices architecture
 - 📊 **Data Engineering**: SQL optimization, vector databases, graph traversal algorithms
 
+### 💻 Competitive Coding
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shivam1981-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shivam1981/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-shivam19812-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shivam19812)
+
+Active on competitive programming platforms, practicing data structures and algorithms regularly.
+
 ### 🚀 Other Notable Projects
 
 - **[HealthVault - Centralized Health Management App](https://github.com/Shivam1981-leo/HealthVault)** - Led backend development for a hackathon Android app, integrating OCR and Gemini AI to extract data from medical reports. Architected a secure backend with Supabase (relational data) and Firebase (auth), implementing health trend graphs and AI-generated insights
