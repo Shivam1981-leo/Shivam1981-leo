@@ -143,6 +143,6 @@ MIT World Peace University, Pune
 - Open source contributions
 - Hackathons and competitive coding challenges
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shivam1981-leo&color=blueviolet&style=flat-square)
+![Profile Views](![](https://komarev.com/ghpvc/?username=Shivam1981-leo)&color=blueviolet&style=flat-square)
 
 *Last updated: November 2026*
