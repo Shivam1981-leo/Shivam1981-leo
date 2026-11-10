@@ -1,49 +1,63 @@
 # Hi there, I'm Shivam Shirsat 👋
 
-## 🚀 Full-Stack Developer | AI/ML Enthusiast | Payment Systems Architect
+## 🚀 AI/ML Engineer | Data Scientist | Full-Stack Developer
 
-I build intelligent systems that solve real-world problems. Currently focused on fraud detection, payment processing, and machine learning applications.
+Computer Science student passionate about building intelligent systems with machine learning and deep learning. I create end-to-end AI solutions from data engineering to production deployment.
+
+### 🎓 Education
+
+**B.Tech in Computer Science and Engineering**  
+K. K. Wagh Institute of Engineering Education and Research, Nashik  
+CGPA: 8.67 | 2022 - 2026
 
 ### 🔭 What I'm Working On
 
-- **[PayGuard AI](https://github.com/Shivam1981-leo/Paypal_dev)** - AI-powered fraud detection platform for PayPal merchants with real-time risk scoring (<40ms)
-  - 🤖 XGBoost ML model trained on 590K transactions
-  - ⚡ Next.js 16 + TypeScript + FastAPI architecture
+- **[PayGuard AI](https://github.com/Shivam1981-leo/Paypal_dev)** - AI-powered fraud detection platform with real-time risk scoring (<40ms)
+  - 🤖 XGBoost ML model trained on 590K transactions (89.98% AUC-ROC)
+  - ⚡ Next.js 16 + TypeScript + FastAPI full-stack architecture
   - 💡 Explainable AI with SHAP values
-  - 🛡️ Pre-capture chargeback prevention
+  - 🛡️ Pre-capture chargeback prevention system
 
 ### 💻 Tech Stack
 
-**Frontend:**
-![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwind-css)
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=flat-square&logo=node.js)
-![Fastify](https://img.shields.io/badge/Fastify-5.1-000000?style=flat-square&logo=fastify)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-4169E1?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-5-DC382D?style=flat-square&logo=redis)
+**ML/AI & Data Science:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**ML/AI:**
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688?style=flat-square&logo=fastapi)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.1-FF6600?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-F7931E?style=flat-square&logo=scikit-learn)
+**Web Development:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**DevOps:**
-![Docker](https://img.shields.io/badge/Docker-Latest-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-Latest-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat-square&logo=github-actions)
+**Databases & Tools:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🎯 Areas of Expertise
 
-- 🧠 **Machine Learning**: Fraud detection, XGBoost, neural networks, explainable AI
-- 💳 **Payment Systems**: PayPal API integration, transaction processing, chargeback prevention
-- 🏗️ **Full-Stack Development**: React/Next.js, Node.js/Fastify, RESTful APIs
-- 📊 **Data Engineering**: PostgreSQL, Redis, Elasticsearch, ETL pipelines
-- 🔐 **Security**: JWT authentication, encryption, secure payment processing
+- 🧠 **Machine Learning**: Supervised/unsupervised learning, ensemble methods, model optimization
+- 🤖 **Deep Learning**: CNNs, RNNs, transfer learning, computer vision, NLP
+- 📊 **Data Science**: Statistical analysis, feature engineering, data visualization
+- 🏗️ **Full-Stack Development**: React/Next.js, Node.js, RESTful APIs, microservices
+- 🔬 **Research**: AI applications, algorithm design, performance optimization
 
 ### 📈 GitHub Stats
 
